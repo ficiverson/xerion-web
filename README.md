@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+## Benvido a Xerión project
 
-You can use the [editor on GitHub](https://github.com/ficiverson/xerion-web/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![xerion_superbig](https://user-images.githubusercontent.com/12527053/150801054-51d2b84b-f24a-4cf8-8663-62bd6f20e3a7.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A continuación puedes ver los términos de uso, política de privacidad y licencias de software de la app Xerión.
 
-### Markdown
+### Términos y condiciones 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Puedes utilizar el juego como quieras e incluso puedes hacer tu propia versión si modificas el código fuente que está disponible para su modificación aquí https://github.com/ficiverson/wordle-flutter
 
-```markdown
-Syntax highlighted code block
+### Política de privacidad
 
-# Header 1
-## Header 2
-### Header 3
+La app no rastrea ningún tipo de información del usuario y tampoco hace uso de la conexión a internet del mismo salvo para guardar los datos de Game Center y Play Games.
 
-- Bulleted
-- List
+### Agradecimientos 
 
-1. Numbered
-2. List
+Agradecimientos a la cuenta https://mobile.twitter.com/xerionxerion por el icono de la app que está basado en su diseño de gloriosos Xeriones que están por toda la ciudad.
 
-**Bold** and _Italic_ and `Code` text
+### Licencias de uso de librerías
 
-[Link](url) and ![Image](src)
-```
+#### cupertino_icons: ^1.0.2
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Web del plugin https://pub.dev/packages/cupertino_icons
+Licencia: The MIT License (MIT) Copyright (c) 2016 Vladimir Kharlampidi
 
-### Jekyll Themes
+#### virtual_keyboard_multi_language: ^0.2.4
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ficiverson/xerion-web/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Web del plugin https://pub.dev/packages/virtual_keyboard_multi_language
+Licencia: MIT License Copyright (c) 2020 Ahmed El-Araby
 
-### Support or Contact
+#### awesome_dialog: ^2.1.2
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Web del plugin https://pub.dev/packages/awesome_dialog
+Licencia: Copyright (c) 2019, Marcos Rodríguez Toranzo (marcos930807)
+
+#### games_services: ^2.0.2
+
+Web del plugin https://pub.dev/packages/games_services
+
+#### onboarding: ^2.1.0
+
+Web del plugin https://pub.dev/packages/onboarding
+Licencia: MIT License Copyright (c) 2020 Eyoel Defare
+
+#### shared_preferences: ^2.0.12
+
+Web del plugin https://pub.dev/packages/shared_preferences
+Licencia: Copyright 2013 The Flutter Authors. All rights reserved.
+
+#### loading: ^1.0.2
+
+Web del plugin https://pub.dev/packages/loading
+
+#### share: ^2.0.4
+
+Web del plugin https://pub.dev/packages/share
+Licencia: Copyright 2013 The Flutter Authors. All rights reserved.
+
+### Contacto
+
+Contacta con me@fernandosouto.dev para dudas o consultas. Más info de contacto en https://fernandosouto.dev/
