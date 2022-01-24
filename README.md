@@ -1,4 +1,4 @@
-## Benvida a Xerión project
+## El reto de Xerión
 
 <img src="https://user-images.githubusercontent.com/12527053/150801054-51d2b84b-f24a-4cf8-8663-62bd6f20e3a7.png" width="200" />
 
