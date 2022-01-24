@@ -2,6 +2,15 @@
 
 <img src="https://user-images.githubusercontent.com/12527053/150801054-51d2b84b-f24a-4cf8-8663-62bd6f20e3a7.png" width="200" />
 
+### App disponible iOS
+
+<img src="https://user-images.githubusercontent.com/12527053/150821046-2c21a20d-3d3e-4fdf-b57f-351d798729e9.png" height="40" />
+
+### App disponible Android
+
+<img src="https://user-images.githubusercontent.com/12527053/150820728-e381a468-9b94-4c56-ac31-0ed0e590cd02.png" height="60" />
+
+
 ### Algunas pantallas de la app
 
 <img src="https://user-images.githubusercontent.com/12527053/150809960-cc7e60fb-d69c-4260-b034-b193711bdc55.png" width="200" /><img src="https://user-images.githubusercontent.com/12527053/150808412-6195f4b9-294e-46c1-9ed6-650461b9ef52.png" width="200" /><img src="https://user-images.githubusercontent.com/12527053/150807951-335dbffc-260f-4591-8d2e-4aabbc36bbfc.png" width="200" /><img src="https://user-images.githubusercontent.com/12527053/150808530-cd1f338c-7744-4a06-bdbf-a93f1a2071aa.png" width="200" />
