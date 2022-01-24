@@ -67,6 +67,12 @@ Web del plugin https://pub.dev/packages/share
 
 Licencia: Copyright 2013 The Flutter Authors. All rights reserved.
 
+#### flutter_html: ^1.3.0
+
+Web del plugin https://pub.dev/packages/flutter_html
+
+Licencia: MIT License Copyright (c) 2019-2022 The flutter_html developers
+
 ### Contacto
 
 Contacta con me@fernandosouto.dev para dudas o consultas. Más info de contacto en https://fernandosouto.dev/
