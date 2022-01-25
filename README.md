@@ -8,7 +8,7 @@
 
 ### App disponible Android
 
-<img src="https://user-images.githubusercontent.com/12527053/150820728-e381a468-9b94-4c56-ac31-0ed0e590cd02.png" height="60" />
+<img src="https://user-images.githubusercontent.com/12527053/150939481-9f33be0a-dec5-4629-9f1e-169738e02ca7.png" height="40" />
 
 
 ### Algunas pantallas de la app
